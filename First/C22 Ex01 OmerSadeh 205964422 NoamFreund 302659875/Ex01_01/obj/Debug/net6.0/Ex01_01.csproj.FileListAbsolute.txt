@@ -1,0 +1,15 @@
+F:\github\C-Sharp-Course\Ex01\C22 Ex01 OmerSadeh 205964422 NoamFreund 302659875\Ex01_01\bin\Debug\net6.0\Ex01_01.exe
+F:\github\C-Sharp-Course\Ex01\C22 Ex01 OmerSadeh 205964422 NoamFreund 302659875\Ex01_01\bin\Debug\net6.0\Ex01_01.deps.json
+F:\github\C-Sharp-Course\Ex01\C22 Ex01 OmerSadeh 205964422 NoamFreund 302659875\Ex01_01\bin\Debug\net6.0\Ex01_01.runtimeconfig.json
+F:\github\C-Sharp-Course\Ex01\C22 Ex01 OmerSadeh 205964422 NoamFreund 302659875\Ex01_01\bin\Debug\net6.0\Ex01_01.dll
+F:\github\C-Sharp-Course\Ex01\C22 Ex01 OmerSadeh 205964422 NoamFreund 302659875\Ex01_01\bin\Debug\net6.0\Ex01_01.pdb
+F:\github\C-Sharp-Course\Ex01\C22 Ex01 OmerSadeh 205964422 NoamFreund 302659875\Ex01_01\obj\Debug\net6.0\Ex01_01.csproj.AssemblyReference.cache
+F:\github\C-Sharp-Course\Ex01\C22 Ex01 OmerSadeh 205964422 NoamFreund 302659875\Ex01_01\obj\Debug\net6.0\Ex01_01.GeneratedMSBuildEditorConfig.editorconfig
+F:\github\C-Sharp-Course\Ex01\C22 Ex01 OmerSadeh 205964422 NoamFreund 302659875\Ex01_01\obj\Debug\net6.0\Ex01_01.AssemblyInfoInputs.cache
+F:\github\C-Sharp-Course\Ex01\C22 Ex01 OmerSadeh 205964422 NoamFreund 302659875\Ex01_01\obj\Debug\net6.0\Ex01_01.AssemblyInfo.cs
+F:\github\C-Sharp-Course\Ex01\C22 Ex01 OmerSadeh 205964422 NoamFreund 302659875\Ex01_01\obj\Debug\net6.0\Ex01_01.csproj.CoreCompileInputs.cache
+F:\github\C-Sharp-Course\Ex01\C22 Ex01 OmerSadeh 205964422 NoamFreund 302659875\Ex01_01\obj\Debug\net6.0\Ex01_01.dll
+F:\github\C-Sharp-Course\Ex01\C22 Ex01 OmerSadeh 205964422 NoamFreund 302659875\Ex01_01\obj\Debug\net6.0\refint\Ex01_01.dll
+F:\github\C-Sharp-Course\Ex01\C22 Ex01 OmerSadeh 205964422 NoamFreund 302659875\Ex01_01\obj\Debug\net6.0\Ex01_01.pdb
+F:\github\C-Sharp-Course\Ex01\C22 Ex01 OmerSadeh 205964422 NoamFreund 302659875\Ex01_01\obj\Debug\net6.0\Ex01_01.genruntimeconfig.cache
+F:\github\C-Sharp-Course\Ex01\C22 Ex01 OmerSadeh 205964422 NoamFreund 302659875\Ex01_01\obj\Debug\net6.0\ref\Ex01_01.dll

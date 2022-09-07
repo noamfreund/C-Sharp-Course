@@ -1,0 +1,36 @@
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\bin\Debug\net6.0\Ex03.ConsoleUI.exe
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\bin\Debug\net6.0\Ex03.ConsoleUI.deps.json
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\bin\Debug\net6.0\Ex03.ConsoleUI.runtimeconfig.json
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\bin\Debug\net6.0\Ex03.ConsoleUI.dll
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\bin\Debug\net6.0\Ex03.ConsoleUI.pdb
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\bin\Debug\net6.0\Ex03.GarageLogic.dll
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\bin\Debug\net6.0\Ex03.GarageLogic.pdb
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.csproj.AssemblyReference.cache
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.AssemblyInfoInputs.cache
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.AssemblyInfo.cs
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.csproj.CopyComplete
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.dll
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\refint\Ex03.ConsoleUI.dll
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.pdb
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.genruntimeconfig.cache
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\ref\Ex03.ConsoleUI.dll
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\bin\Debug\net6.0\Ex03.ConsoleUI.exe
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\bin\Debug\net6.0\Ex03.ConsoleUI.deps.json
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\bin\Debug\net6.0\Ex03.ConsoleUI.runtimeconfig.json
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\bin\Debug\net6.0\Ex03.ConsoleUI.dll
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\bin\Debug\net6.0\Ex03.ConsoleUI.pdb
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\bin\Debug\net6.0\Ex03.GarageLogic.dll
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\bin\Debug\net6.0\Ex03.GarageLogic.pdb
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.csproj.AssemblyReference.cache
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.AssemblyInfoInputs.cache
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.AssemblyInfo.cs
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.csproj.CopyComplete
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.dll
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\refint\Ex03.ConsoleUI.dll
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.pdb
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\Ex03.ConsoleUI.genruntimeconfig.cache
+F:\github\C-Sharp-Course\Ex03\C22 Ex03 OmerSadeh 205964422 NoamFreund 302659875\Ex03.ConsoleUI\obj\Debug\net6.0\ref\Ex03.ConsoleUI.dll
