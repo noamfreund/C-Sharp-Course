@@ -1,0 +1,195 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\IDC\\2-second year\\semester 3\\c#\\hw\\git\\Ex04\\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\\Ex04.Menus.Test\\Ex04.Menus.Test.csproj": {}
+  },
+  "projects": {
+    "F:\\IDC\\2-second year\\semester 3\\c#\\hw\\git\\Ex04\\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\\Ex04.Menus.Delegates\\Ex04.Menus.Delegates.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\IDC\\2-second year\\semester 3\\c#\\hw\\git\\Ex04\\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\\Ex04.Menus.Delegates\\Ex04.Menus.Delegates.csproj",
+        "projectName": "Ex04.Menus.Delegates",
+        "projectPath": "F:\\IDC\\2-second year\\semester 3\\c#\\hw\\git\\Ex04\\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\\Ex04.Menus.Delegates\\Ex04.Menus.Delegates.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "F:\\IDC\\2-second year\\semester 3\\c#\\hw\\git\\Ex04\\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\\Ex04.Menus.Delegates\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\IDC\\2-second year\\semester 3\\c#\\hw\\git\\Ex04\\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\\Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\IDC\\2-second year\\semester 3\\c#\\hw\\git\\Ex04\\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\\Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj",
+        "projectName": "Ex04.Menus.Interfaces",
+        "projectPath": "F:\\IDC\\2-second year\\semester 3\\c#\\hw\\git\\Ex04\\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\\Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "F:\\IDC\\2-second year\\semester 3\\c#\\hw\\git\\Ex04\\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\\Ex04.Menus.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\IDC\\2-second year\\semester 3\\c#\\hw\\git\\Ex04\\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\\Ex04.Menus.Test\\Ex04.Menus.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\IDC\\2-second year\\semester 3\\c#\\hw\\git\\Ex04\\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\\Ex04.Menus.Test\\Ex04.Menus.Test.csproj",
+        "projectName": "Ex04.Menus.Test",
+        "projectPath": "F:\\IDC\\2-second year\\semester 3\\c#\\hw\\git\\Ex04\\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\\Ex04.Menus.Test\\Ex04.Menus.Test.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "F:\\IDC\\2-second year\\semester 3\\c#\\hw\\git\\Ex04\\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\\Ex04.Menus.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\IDC\\2-second year\\semester 3\\c#\\hw\\git\\Ex04\\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\\Ex04.Menus.Delegates\\Ex04.Menus.Delegates.csproj": {
+                "projectPath": "F:\\IDC\\2-second year\\semester 3\\c#\\hw\\git\\Ex04\\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\\Ex04.Menus.Delegates\\Ex04.Menus.Delegates.csproj"
+              },
+              "F:\\IDC\\2-second year\\semester 3\\c#\\hw\\git\\Ex04\\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\\Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj": {
+                "projectPath": "F:\\IDC\\2-second year\\semester 3\\c#\\hw\\git\\Ex04\\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\\Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex04.Menus.Test/1.0.0": {
+        "dependencies": {
+          "Ex04.Menus.Delegates": "1.0.0",
+          "Ex04.Menus.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Ex04.Menus.Test.dll": {}
+        }
+      },
+      "Ex04.Menus.Delegates/1.0.0": {
+        "runtime": {
+          "Ex04.Menus.Delegates.dll": {}
+        }
+      },
+      "Ex04.Menus.Interfaces/1.0.0": {
+        "runtime": {
+          "Ex04.Menus.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex04.Menus.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ex04.Menus.Delegates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ex04.Menus.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

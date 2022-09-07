@@ -1,0 +1,12 @@
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex04\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\Ex04.Menus.Interfaces\bin\Debug\net6.0\Ex04.Menus.Interfaces.deps.json
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex04\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\Ex04.Menus.Interfaces\bin\Debug\net6.0\Ex04.Menus.Interfaces.dll
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex04\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\Ex04.Menus.Interfaces\bin\Debug\net6.0\Ex04.Menus.Interfaces.pdb
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex04\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\Ex04.Menus.Interfaces\obj\Debug\net6.0\Ex04.Menus.Interfaces.csproj.AssemblyReference.cache
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex04\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\Ex04.Menus.Interfaces\obj\Debug\net6.0\Ex04.Menus.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex04\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\Ex04.Menus.Interfaces\obj\Debug\net6.0\Ex04.Menus.Interfaces.AssemblyInfoInputs.cache
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex04\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\Ex04.Menus.Interfaces\obj\Debug\net6.0\Ex04.Menus.Interfaces.AssemblyInfo.cs
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex04\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\Ex04.Menus.Interfaces\obj\Debug\net6.0\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex04\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\Ex04.Menus.Interfaces\obj\Debug\net6.0\Ex04.Menus.Interfaces.dll
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex04\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\Ex04.Menus.Interfaces\obj\Debug\net6.0\refint\Ex04.Menus.Interfaces.dll
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex04\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\Ex04.Menus.Interfaces\obj\Debug\net6.0\Ex04.Menus.Interfaces.pdb
+F:\IDC\2-second year\semester 3\c#\hw\git\Ex04\C22 Ex04 OmerSadeh 205964422 NoamFreund 302659875\Ex04.Menus.Interfaces\obj\Debug\net6.0\ref\Ex04.Menus.Interfaces.dll

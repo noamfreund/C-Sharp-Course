@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C22 Ex05 OmerSadeh 205964422 NoamFreund 302659875/1.0.0": {
+        "runtime": {
+          "C22 Ex05 OmerSadeh 205964422 NoamFreund 302659875.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C22 Ex05 OmerSadeh 205964422 NoamFreund 302659875/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
